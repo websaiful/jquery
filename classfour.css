@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    display: none;
+}
+h1{
+    margin: auto;
+    cursor: pointer;
+    background: red;
+    text-align: center;
+    width: 30%;
+    border-radius: 10px;
+    padding: 5px;
+    
+}

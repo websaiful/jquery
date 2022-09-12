@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    height: 40px;
+    background: aqua;
+    margin-bottom: 10px;
+}
