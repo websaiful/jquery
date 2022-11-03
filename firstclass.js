@@ -1,1 +1,12 @@
-$('.one').hide(7000);
+$(document).ready(function(){
+    $('.two').click(function(){
+        $('.one').animate({
+            marginLeft:'-250px'
+        });
+    });
+    $('.three').click(function(){
+        $('.one').animate({
+            marginLeft:'0px'
+        });
+    });
+});
